@@ -1,14 +1,14 @@
 body {
-    background-color: lightblue;
+    background-color: lightseagreen;
 }
 table, td, th{
     border: solid 1px gray;
     background-color: white;
 }
 .face {
-    color: red;
+    color: green;
 }
 .back{
-    color: red;
+    color: whitesmoke;
     opacity: 0.4;
 }
